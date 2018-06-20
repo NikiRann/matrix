@@ -1,0 +1,1 @@
+A simple matrix class containing determinant calculator and some other handy functions. 

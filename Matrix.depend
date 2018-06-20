@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1529498883 source:c:\users\niko\documents\c++ projects\hashtable\matrix\main.cpp
+	<iostream>
+	<cmath>
+	<Matrix.h>
+
+1529498645 c:\users\niko\documents\c++ projects\hashtable\matrix\include\matrix.h
+	<vector>
+
+1529498876 source:c:\users\niko\documents\c++ projects\hashtable\matrix\src\matrix.cpp
+	"Matrix.h"
+	<cmath>
+	<vector>
+	<iostream>
+
